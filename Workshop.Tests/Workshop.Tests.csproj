@@ -52,9 +52,9 @@
     <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Workshop\Workshop.csproj">
+    <ProjectReference Include="..\Workshop\WorkshopWeb.csproj">
       <Project>{4008131C-DBBE-49D9-8254-E8FD775B31B0}</Project>
-      <Name>Workshop</Name>
+      <Name>WorkshopWeb</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
