@@ -48,7 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="DataAccess.cs" />
     <Compile Include="Models\Presenter.cs">
       <DependentUpon>Workshop.tt</DependentUpon>
     </Compile>

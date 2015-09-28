@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DAL.Models
+namespace Workshop.DAL.Models
 {
     using System;
     using System.Collections.Generic;
