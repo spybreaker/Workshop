@@ -10,7 +10,7 @@ using System.Data.Entity;
 
 namespace Workshop.Controllers
 {
-    public class Home : Controller
+    public class HomeController : Controller
     {
         WorkshopEntities workshopEntity = new WorkshopEntities();
         public ActionResult Index()
